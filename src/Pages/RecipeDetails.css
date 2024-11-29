@@ -1,0 +1,24 @@
+.recipe{
+    color: goldenrod;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+   
+}
+.recipe img{
+    border-radius: 10px;
+    justify-content: center;
+    margin-left: 35%;
+}
+.recipe p{
+   
+    color: goldenrod;
+    font-size:xx-large;
+ 
+   
+}
+.recipe h1{
+    font-size:xx-large;
+    font-weight: 900;
+  margin-left: 35%;
+}
